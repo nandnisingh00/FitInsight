@@ -57,19 +57,19 @@
 
 <td align="center">
 <img src="assets/nandni.jpg" width="120px"><br>
-<b>Nandni Singh</b><br>
+<b>Rajnandni Tomar</b><br>
 Project Lead
 </td>
 
 <td align="center">
 <img src="assets/priyanka.jpg" width="120px"><br>
-<b>Member 2</b><br>
+<b>Priyanka Binthariya</b><br>
 Frontend
 </td>
 
 <td align="center">
 <img src="assets/member3.jpg" width="120px"><br>
-<b>Member 3</b><br>
+<b>Radhika Palod</b><br>
 Database
 </td>
 
