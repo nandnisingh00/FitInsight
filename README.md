@@ -68,7 +68,7 @@ Frontend
 </td>
 
 <td align="center">
-<img src="assets/member3.jpg" width="120px"><br>
+<img src="assets/radhika.jpg" width="120px"><br>
 <b>Radhika Palod</b><br>
 Database
 </td>
@@ -115,6 +115,13 @@ Thanks to all contributors who helped build FitInsight.
   <img src="https://contrib.rocks/image?repo=nandnisingh00/FitInsight" />
 </a>
 
+<a href="https://github.com/binthariyap-glitch/FitInsight/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=binthariyap-glitch/FitInsight" />
+</a>
+
+<a href="https://github.com/radhikapalod1-max/FitInsight/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=radhikapalod1-max/FitInsight" />
+</a>
 
 
 <div align="center">
