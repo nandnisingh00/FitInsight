@@ -1,168 +1,127 @@
-FitInsight – Smart Health & Fitness Monitoring System
+div align="center">
 
-📌 Overview
-FitInsight is a comprehensive web-based Health & Fitness Management System designed to help users monitor, analyze, and improve their overall well-being.
-The platform combines fitness tracking, yoga management, diet planning, and health assessment into a single personalized dashboard. By collecting health-related information such as age, gender, height, weight, blood sugar levels, cholesterol levels, and activity levels, the system generates meaningful insights and recommendations to support healthier lifestyle choices.
+<img src="assets/banner.png" width="100%">
 
----
+<h1>🏋️‍♀️ FitInsight</h1>
 
-🚀 Key Features
+<h3>Smart Health & Fitness Monitoring System</h3>
 
-👤 User Management
-- Secure User Registration
-- User Login & Authentication
-- Session Management
-- Personalized Dashboard
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&width=700&lines=Track+Your+Fitness;Monitor+Your+Health;AI+Powered+Recommendations;Analyze+Your+Progress;Healthy+Today+Stronger+Tomorrow">
 
-❤️ Health Assessment
-Users can provide:
-- Age
-- Gender
-- Height
-- Weight
-- Blood Sugar Level
-- Cholesterol Level
-- Activity Level
+<br>
 
-The system automatically generates:
-✅ BMI Analysis
-✅ Health Score
-✅ Vitals Summary
-✅ Risk Analysis
-✅ Personalized Health Recommendations
+<a href="https://fitinsight.infinityfreeapp.com">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-success?style=for-the-badge">
+</a>
 
----
+<a href="https://github.com/nandnisingh00/FitInsight">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge">
+</a>
+
+</div>
+
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode"/>
+</p>
+
+
+## ✨ Features
+
+🔐 User Authentication
 
 🏃 Workout Tracking
-- Workout Categories
-- Exercise Tracking
-- Workout Progress Monitoring
-- Fitness Statistics
-
----
 
 🧘 Yoga Management
-Multiple Yoga Categories:
-- Beginner Yoga
-- Weight Loss Yoga
-- Flexibility Yoga
-- Meditation Yoga
-- Strength Yoga
-- Back Pain Relief Yoga
-- Morning Yoga
-- Sleep Yoga
-- Stress Relief Yoga
-- Advanced Yoga
-- Power Yoga
-- Prenatal Yoga
-
-Features:
-- Detailed Yoga Information
-- Pose Descriptions
-- Benefits of Each Pose
-- Guided Sessions
-- Session Tracking
-
----
 
 🥗 Diet Planning
-- Healthy Diet Suggestions
-- Nutrition Guidance
-- Personalized Meal Planning
 
----
+❤️ Health Assessment
 
-📊 Analytics Dashboard
-- Fitness Progress Graphs
-- Health Statistics
-- Activity Monitoring
-- Performance Tracking
+📊 BMI Analysis
 
----
+⚠️ Risk Analysis
 
-🛠️ Technology Stack
+📋 Vitals Summary
 
+🤖 AI Recommendations
+
+📈 Progress Analytics
+
+
+<h2 align="center">👥 Team Members</h2>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="assets/nandni.jpg" width="120px"><br>
+<b>Nandni Singh</b><br>
+Project Lead
+</td>
+
+<td align="center">
+<img src="assets/priyanka.jpg" width="120px"><br>
+<b>Member 2</b><br>
 Frontend
-- HTML5
-- CSS3
-- JavaScript
+</td>
 
-Backend
-- PHP
-
+<td align="center">
+<img src="assets/member3.jpg" width="120px"><br>
+<b>Member 3</b><br>
 Database
-- MySQL
+</td>
 
-Version Control
-- Git
-- GitHub
+</tr>
+</table>
 
-Hosting
-- InfinityFree
+<h2 align="center">📸 Project Screenshots</h2>
 
----
+<p align="center">
+<img src="screenshots/dashboard.png" width="800">
+</p>
 
-🗄️ Database Design
+<p align="center">
+<img src="screenshots/health.png" width="800">
+</p>
 
-Main Tables:
-- users
-- health_data
-- workout_logs
-- yoga_logs
-- diet_logs
+<p align="center">
+<img src="screenshots/diet.png" width="800">
+</p>
 
-The database is designed using relational database concepts to efficiently manage user information and activity records.
+<p align="center">
+<img src="screenshots/workout.png" width="800">
+</p>
 
----
+<h2 align="center">📊 Repository Statistics</h2>
 
-🎯 Project Objectives
-- Promote healthy lifestyle habits.
-- Track fitness and wellness activities.
-- Provide health analysis based on user data.
-- Visualize progress through dashboards and graphs.
-- Deliver personalized recommendations.
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=nandnisingh00&show_icons=true&theme=tokyonight">
 
-🌐 Live Demo
-Website:
-https://fitinsight.infinityfreeapp.com
+<br>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandnisingh00&theme=tokyonight">
 
-💻 GitHub Repository
-Repository:
-https://github.com/nandnisingh00/FitInsight
+</p>
 
----
 
-👥 Team Members
-- Nandni Singh
-- Team Member 2
-- Team Member 3
+## 🏆 Contributors
 
----
+Thanks to all contributors who helped build FitInsight.
 
-📚 Learning Outcomes
-Through this project we gained practical experience in:
-- Database Management Systems
-- Web Development
-- User Authentication
-- CRUD Operations
-- Full Stack Development
-- Data Analysis
-- Project Deployment
-- Version Control with Git & GitHub
+<a href="https://github.com/nandnisingh00/FitInsight/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nandnisingh00/FitInsight" />
+</a>
 
----
 
-🔮 Future Enhancements
-- Mobile Application Support
-- Wearable Device Integration
-- Advanced AI Health Assistant
-- Real-Time Health Monitoring
-- Cloud-Based Analytics
 
----
+<div align="center">
 
-⭐ If you found this project interesting, feel free to star the repository!
+### ⭐ If you like this project, don't forget to star the repository!
+
+Made with ❤️ by Team FitInsight
+
+</div>
